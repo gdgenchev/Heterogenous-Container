@@ -1,0 +1,116 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/georg/Desktop/Programming is Life/projects/Heterogeneous Container/condition.h
+
+C:/Users/georg/Desktop/Programming is Life/projects/Heterogeneous Container/containers/container.h
+../condition.h
+C:/Users/georg/Desktop/Programming is Life/projects/Heterogeneous Container/condition.h
+queue.cpp
+C:/Users/georg/Desktop/Programming is Life/projects/Heterogeneous Container/containers/queue.cpp
+dllist.cpp
+C:/Users/georg/Desktop/Programming is Life/projects/Heterogeneous Container/containers/dllist.cpp
+stack.cpp
+C:/Users/georg/Desktop/Programming is Life/projects/Heterogeneous Container/containers/stack.cpp
+../iterator/elem.h
+C:/Users/georg/Desktop/Programming is Life/projects/Heterogeneous Container/iterator/elem.h
+../iterator/iterator.h
+C:/Users/georg/Desktop/Programming is Life/projects/Heterogeneous Container/iterator/iterator.h
+
+C:/Users/georg/Desktop/Programming is Life/projects/Heterogeneous Container/containers/dllist.cpp
+iostream
+-
+cassert
+-
+../iterator/elem.h
+C:/Users/georg/Desktop/Programming is Life/projects/Heterogeneous Container/iterator/elem.h
+
+C:/Users/georg/Desktop/Programming is Life/projects/Heterogeneous Container/containers/queue.cpp
+iostream
+-
+stdlib.h
+-
+cassert
+-
+vector
+-
+algorithm
+-
+../iterator/elem.h
+C:/Users/georg/Desktop/Programming is Life/projects/Heterogeneous Container/iterator/elem.h
+
+C:/Users/georg/Desktop/Programming is Life/projects/Heterogeneous Container/containers/stack.cpp
+iostream
+-
+stdlib.h
+-
+cassert
+-
+../iterator/elem.h
+C:/Users/georg/Desktop/Programming is Life/projects/Heterogeneous Container/iterator/elem.h
+
+C:/Users/georg/Desktop/Programming is Life/projects/Heterogeneous Container/heterogeneous_list.cpp
+iostream
+-
+containers/container.h
+C:/Users/georg/Desktop/Programming is Life/projects/Heterogeneous Container/containers/container.h
+simple_containers/simple_queue.cpp
+C:/Users/georg/Desktop/Programming is Life/projects/Heterogeneous Container/simple_containers/simple_queue.cpp
+simple_containers/simple_stack.cpp
+C:/Users/georg/Desktop/Programming is Life/projects/Heterogeneous Container/simple_containers/simple_stack.cpp
+simple_containers/simple_dllist.cpp
+C:/Users/georg/Desktop/Programming is Life/projects/Heterogeneous Container/simple_containers/simple_dllist.cpp
+list
+-
+fstream
+-
+sstream
+-
+
+C:/Users/georg/Desktop/Programming is Life/projects/Heterogeneous Container/iterator/elem.h
+
+C:/Users/georg/Desktop/Programming is Life/projects/Heterogeneous Container/iterator/iterator.h
+elem.h
+C:/Users/georg/Desktop/Programming is Life/projects/Heterogeneous Container/iterator/elem.h
+
+C:/Users/georg/Desktop/Programming is Life/projects/Heterogeneous Container/simple_containers/simple_dllist.cpp
+../containers/container.h
+C:/Users/georg/Desktop/Programming is Life/projects/Heterogeneous Container/containers/container.h
+
+C:/Users/georg/Desktop/Programming is Life/projects/Heterogeneous Container/simple_containers/simple_queue.cpp
+../containers/container.h
+C:/Users/georg/Desktop/Programming is Life/projects/Heterogeneous Container/containers/container.h
+
+C:/Users/georg/Desktop/Programming is Life/projects/Heterogeneous Container/simple_containers/simple_stack.cpp
+../containers/container.h
+C:/Users/georg/Desktop/Programming is Life/projects/Heterogeneous Container/containers/container.h
+
+C:/Users/georg/Desktop/Programming is Life/projects/Heterogeneous Container/testhglist.cpp
+heterogeneous_list.cpp
+C:/Users/georg/Desktop/Programming is Life/projects/Heterogeneous Container/heterogeneous_list.cpp
+tests/heterogeneous_list_tests.h
+C:/Users/georg/Desktop/Programming is Life/projects/Heterogeneous Container/tests/heterogeneous_list_tests.h
+
+C:/Users/georg/Desktop/Programming is Life/projects/Heterogeneous Container/tests/UnitTestFramework.h
+string
+-
+vector
+-
+map
+-
+iostream
+-
+cmath
+-
+cstring
+-
+
+C:/Users/georg/Desktop/Programming is Life/projects/Heterogeneous Container/tests/heterogeneous_list_tests.h
+UnitTestFramework.h
+C:/Users/georg/Desktop/Programming is Life/projects/Heterogeneous Container/tests/UnitTestFramework.h
+
